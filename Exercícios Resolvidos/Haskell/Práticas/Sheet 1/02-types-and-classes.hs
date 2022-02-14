@@ -1,0 +1,18 @@
+---------------  Ex 1.7  ---------------
+-- a)   [Char]
+-- b)   (Char)
+-- c)   [(Bool, Char)]
+-- d)   ([Enum])
+-- e)   [[a] -> [a]]
+-- f)   [Bool -> Bool]
+
+---------------  Ex 1.8  ---------------
+-- a)   segundo :: [a] -> a
+-- b)   trocar :: (a, b) -> (b, a)
+-- c)   par :: a -> b -> (a, b)
+-- d)   dobro :: Num -> Num
+-- e)   metade :: Num -> Num
+-- f)   minuscula :: Char -> Bool
+-- g)   intervalo :: Ord -> Ord -> Ord -> Bool
+-- h)   palindromo :: [a] -> Bool
+-- i)   twice :: (a -> a) -> a -> a 
