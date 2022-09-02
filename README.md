@@ -10,9 +10,9 @@ Este repositório contém:
 - Slides
 - Exercícios Resolvidos
 - Exames Resolvidos
-- [Projetos](https://github.com/xico2001pt/pfl-proj)
-   - [BigNumbers - Haskell](https://github.com/xico2001pt/pfl-proj/tree/master/proj1)
-   - [Renpaarden - Prolog](https://github.com/xico2001pt/pfl-proj/tree/master/proj2)
+- [Projetos](https://github.com/filipepcampos/feup-pfl-proj)
+   - [BigNumbers - Haskell](https://github.com/filipepcampos/feup-pfl-proj/tree/master/BigNumbers)
+   - [Renpaarden - Prolog](https://github.com/filipepcampos/feup-pfl-proj/tree/master/Renpaarden)
 
 ## Classificações
 
